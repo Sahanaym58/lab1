@@ -1,4 +1,5 @@
 main()
 {
-	print("HELLO")
+`	print("HELLO")
+	welcome
 }
